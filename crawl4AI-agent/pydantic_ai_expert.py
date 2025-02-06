@@ -78,7 +78,7 @@ async def retrieve_relevant_documentation(ctx: RunContext[PydanticAIDeps], user_
             {
                 'query_embedding': query_embedding,
                 'match_count': 5,
-                'filter': {'source': 'pydantic_ai_docs'}
+                'filter': {'source': 'elastic_docs'}
             }
         ).execute()
         
@@ -105,16 +105,16 @@ async def retrieve_relevant_documentation(ctx: RunContext[PydanticAIDeps], user_
 @pydantic_ai_expert.tool
 async def list_documentation_pages(ctx: RunContext[PydanticAIDeps]) -> List[str]:
     """
-    Retrieve a list of all available Pydantic AI documentation pages.
+    Retrieve a list of all available Elastic Stack documentation pages.
     
     Returns:
         List[str]: List of unique URLs for all documentation pages
     """
     try:
-        # Query Supabase for unique URLs where source is pydantic_ai_docs
+        # Query Supabase for unique URLs where source is elastic_docs
         result = ctx.deps.supabase.from_('site_pages') \
             .select('url') \
-            .eq('metadata->>source', 'pydantic_ai_docs') \
+            .eq('metadata->>source', 'elastic_docs') \
             .execute()
         
         if not result.data:
@@ -145,7 +145,7 @@ async def get_page_content(ctx: RunContext[PydanticAIDeps], url: str) -> str:
         result = ctx.deps.supabase.from_('site_pages') \
             .select('title, content, chunk_number') \
             .eq('url', url) \
-            .eq('metadata->>source', 'pydantic_ai_docs') \
+            .eq('metadata->>source', 'elastic_docs') \
             .order('chunk_number') \
             .execute()
         

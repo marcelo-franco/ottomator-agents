@@ -122,7 +122,7 @@ async def process_chunk(chunk: str, chunk_number: int, url: str) -> ProcessedChu
     
     # Create metadata
     metadata = {
-        "source": "pydantic_ai_docs",
+        "source": "elastic_docs",
         "chunk_size": len(chunk),
         "crawled_at": datetime.now(timezone.utc).isoformat(),
         "url_path": urlparse(url).path
@@ -213,8 +213,8 @@ async def crawl_parallel(urls: List[str], max_concurrent: int = 5):
         await crawler.close()
 
 def get_pydantic_ai_docs_urls() -> List[str]:
-    """Get URLs from Pydantic AI docs sitemap."""
-    sitemap_url = "https://ai.pydantic.dev/sitemap.xml"
+    """Get URLs from Elastic Stack docs sitemap."""
+    sitemap_url = "https://elastic.co/sitemap.xml"
     try:
         response = requests.get(sitemap_url)
         response.raise_for_status()
@@ -232,7 +232,7 @@ def get_pydantic_ai_docs_urls() -> List[str]:
         return []
 
 async def main():
-    # Get URLs from Pydantic AI docs
+    # Get URLs from Elastic Stack docs
     urls = get_pydantic_ai_docs_urls()
     if not urls:
         print("No URLs found to crawl")
