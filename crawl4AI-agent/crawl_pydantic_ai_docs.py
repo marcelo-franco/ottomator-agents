@@ -17,7 +17,7 @@ from supabase import create_client, Client
 load_dotenv()
 
 # Initialize OpenAI and Supabase clients
-openai_client = AsyncOpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+openai_client = AsyncOpenAI(api_key=os.getenv("OPENAI_API_KEY"), base_url="http://127.0.0.1:1234/v1")
 supabase: Client = create_client(
     os.getenv("SUPABASE_URL"),
     os.getenv("SUPABASE_SERVICE_KEY")
@@ -85,15 +85,28 @@ async def get_title_and_summary(chunk: str, url: str) -> Dict[str, str]:
     For the title: If this seems like the start of a document, extract its title. If it's a middle chunk, derive a descriptive title.
     For the summary: Create a concise summary of the main points in this chunk.
     Keep both title and summary concise but informative."""
+
+    json_schema = {
+"schema": {
+        "type": "object",
+        "properties": {
+            "title": {"type": "string"},
+            "summary": {"type": "string"}
+        },
+        "required": ["title", "summary"]
+    }
+}
     
     try:
         response = await openai_client.chat.completions.create(
-            model=os.getenv("LLM_MODEL", "gpt-4o-mini"),
+            # model=os.getenv("LLM_MODEL", "gpt-4o-mini"),
+            model=os.getenv(
+"deepseek-r1-distill-qwen-7b", "deepseek-r1-distill-qwen-7b"),
             messages=[
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": f"URL: {url}\n\nContent:\n{chunk[:1000]}..."}  # Send first 1000 chars for context
             ],
-            response_format={ "type": "json_object" }
+            response_format={ "type": "json_schema", "json_schema": json_schema }  # Adicionado json_schema
         )
         return json.loads(response.choices[0].message.content)
     except Exception as e:
@@ -104,7 +117,7 @@ async def get_embedding(text: str) -> List[float]:
     """Get embedding vector from OpenAI."""
     try:
         response = await openai_client.embeddings.create(
-            model="text-embedding-3-small",
+            model="text-embedding-nomic-embed-text-v1.5",
             input=text
         )
         return response.data[0].embedding
@@ -214,7 +227,7 @@ async def crawl_parallel(urls: List[str], max_concurrent: int = 5):
 
 def get_pydantic_ai_docs_urls() -> List[str]:
     """Get URLs from Elastic Stack docs sitemap."""
-    sitemap_url = "https://elastic.co/sitemap.xml"
+    sitemap_url = "https://www.elastic.co/guide/sitemap.xml"
     try:
         response = requests.get(sitemap_url)
         response.raise_for_status()
