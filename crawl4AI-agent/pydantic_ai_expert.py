@@ -15,7 +15,7 @@ from typing import List
 
 load_dotenv()
 
-llm = os.getenv('LLM_MODEL', 'gpt-4o-mini')
+llm = os.getenv('LLM_MODEL', 'deepseek-r1-distill-qwen-7b')
 model = OpenAIModel(llm)
 
 logfire.configure(send_to_logfire='if-token-present')

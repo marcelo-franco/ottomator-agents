@@ -17,7 +17,7 @@ from supabase import create_client, Client
 load_dotenv()
 
 # Initialize OpenAI and Supabase clients
-openai_client = AsyncOpenAI(api_key=os.getenv("OPENAI_API_KEY"), url=os.getenv("OPENAI_API_URL"))
+openai_client = AsyncOpenAI(api_key=os.getenv("OPENAI_API_KEY"), base_url=os.getenv("OPENAI_API_URL"))
 supabase: Client = create_client(
     os.getenv("SUPABASE_URL"),
     os.getenv("SUPABASE_SERVICE_KEY")
@@ -93,7 +93,26 @@ async def get_title_and_summary(chunk: str, url: str) -> Dict[str, str]:
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": f"URL: {url}\n\nContent:\n{chunk[:1000]}..."}  # Send first 1000 chars for context
             ],
-            response_format={ "type": "json_object" }
+            response_format={
+                "type": "json_schema",
+                "json_schema": {
+                    "schema": {
+                        "type": "object",
+                        "properties": {
+                            "title": {
+                            "type": "string",
+                            },
+                            "summary": {
+                            "type": "string",
+                            }
+                        },
+                        "required": [
+                            "title",
+                            "summary"
+                        ]
+                    }
+                }
+            }
         )
         return json.loads(response.choices[0].message.content)
     except Exception as e:
