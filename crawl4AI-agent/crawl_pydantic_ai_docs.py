@@ -17,7 +17,7 @@ from supabase import create_client, Client
 load_dotenv()
 
 # Initialize OpenAI and Supabase clients
-openai_client = AsyncOpenAI(api_key=os.getenv("OPENAI_API_KEY"), base_url="http://127.0.0.1:1234/v1")
+openai_client = AsyncOpenAI(api_key=os.getenv("OPENAI_API_KEY"), url=os.getenv("OPENAI_API_URL"))
 supabase: Client = create_client(
     os.getenv("SUPABASE_URL"),
     os.getenv("SUPABASE_SERVICE_KEY")
@@ -79,34 +79,21 @@ def chunk_text(text: str, chunk_size: int = 5000) -> List[str]:
     return chunks
 
 async def get_title_and_summary(chunk: str, url: str) -> Dict[str, str]:
-    """Extract title and summary using GPT-4."""
+    """Extract title and summary using LLM model."""
     system_prompt = """You are an AI that extracts titles and summaries from documentation chunks.
     Return a JSON object with 'title' and 'summary' keys.
     For the title: If this seems like the start of a document, extract its title. If it's a middle chunk, derive a descriptive title.
     For the summary: Create a concise summary of the main points in this chunk.
     Keep both title and summary concise but informative."""
-
-    json_schema = {
-"schema": {
-        "type": "object",
-        "properties": {
-            "title": {"type": "string"},
-            "summary": {"type": "string"}
-        },
-        "required": ["title", "summary"]
-    }
-}
     
     try:
         response = await openai_client.chat.completions.create(
-            # model=os.getenv("LLM_MODEL", "gpt-4o-mini"),
-            model=os.getenv(
-"deepseek-r1-distill-qwen-7b", "deepseek-r1-distill-qwen-7b"),
+            model=os.getenv("LLM_MODEL", "deepseek-r1-distill-qwen-7b"),
             messages=[
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": f"URL: {url}\n\nContent:\n{chunk[:1000]}..."}  # Send first 1000 chars for context
             ],
-            response_format={ "type": "json_schema", "json_schema": json_schema }  # Adicionado json_schema
+            response_format={ "type": "json_object" }
         )
         return json.loads(response.choices[0].message.content)
     except Exception as e:
@@ -114,9 +101,10 @@ async def get_title_and_summary(chunk: str, url: str) -> Dict[str, str]:
         return {"title": "Error processing title", "summary": "Error processing summary"}
 
 async def get_embedding(text: str) -> List[float]:
-    """Get embedding vector from OpenAI."""
+    """Get embedding vector from LLM model."""
     try:
         response = await openai_client.embeddings.create(
+            #model="text-embedding-3-small",
             model="text-embedding-nomic-embed-text-v1.5",
             input=text
         )
@@ -227,7 +215,7 @@ async def crawl_parallel(urls: List[str], max_concurrent: int = 5):
 
 def get_pydantic_ai_docs_urls() -> List[str]:
     """Get URLs from Elastic Stack docs sitemap."""
-    sitemap_url = "https://www.elastic.co/guide/sitemap.xml"
+    sitemap_url = "https://elastic.co/guide/sitemap.xml"
     try:
         response = requests.get(sitemap_url)
         response.raise_for_status()
@@ -239,6 +227,9 @@ def get_pydantic_ai_docs_urls() -> List[str]:
         namespace = {'ns': 'http://www.sitemaps.org/schemas/sitemap/0.9'}
         urls = [loc.text for loc in root.findall('.//ns:loc', namespace)]
         
+        # Filter URLs to include only those starting with the specified prefix
+        urls = [url for url in urls if url.startswith("https://www.elastic.co/guide/en/kibana")]
+
         return urls
     except Exception as e:
         print(f"Error fetching sitemap: {e}")

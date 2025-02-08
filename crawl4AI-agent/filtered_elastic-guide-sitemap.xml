@@ -1,0 +1,3378 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns:ns0="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/Security-production-considerations.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/_cli_configuration.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/_import_dashboards.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/_manage_dashboards.html</ns0:loc>
+    <ns0:lastmod>2024-12-23T20:20:38+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/_panels_and_visualizations.html</ns0:loc>
+    <ns0:lastmod>2024-12-23T20:20:38+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/_tutorials.html</ns0:loc>
+    <ns0:lastmod>2024-12-23T20:20:38+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/_use_and_filter_dashboards.html</ns0:loc>
+    <ns0:lastmod>2024-12-23T20:20:38+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/access.html</ns0:loc>
+    <ns0:lastmod>2025-01-07T17:56:15+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/accessibility.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/action-types.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/actions-and-connectors-api.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/add-controls.html</ns0:loc>
+    <ns0:lastmod>2024-12-23T20:20:38+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/add-data-tutorials.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/add-image.html</ns0:loc>
+    <ns0:lastmod>2024-12-31T14:21:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/add-monitor-api.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/add-parameters-api.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/add-text.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/advanced-options.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/advanced.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/ai-assistant-settings-kb.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/alert-action-settings-kb.html</ns0:loc>
+    <ns0:lastmod>2025-01-07T17:56:15+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/alerting-apis.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/alerting-common-issues.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/alerting-getting-started.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/alerting-production-considerations.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/alerting-setup.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/alerting-troubleshooting.html</ns0:loc>
+    <ns0:lastmod>2025-01-21T12:27:00+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/api-keys.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/api.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/apm-settings-kb.html</ns0:loc>
+    <ns0:lastmod>2025-01-07T17:56:15+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/application-service.html</ns0:loc>
+    <ns0:lastmod>2025-01-14T17:05:37+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/arrange-panels.html</ns0:loc>
+    <ns0:lastmod>2024-12-23T20:20:38+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/asset-tracking-tutorial.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/automating-report-generation.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/banners-settings-kb.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/batch-reindex-queue.html</ns0:loc>
+    <ns0:lastmod>2025-01-14T17:05:37+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/batch-start-resume-reindex.html</ns0:loc>
+    <ns0:lastmod>2025-01-14T17:05:37+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/beats-page.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/bedrock-action-type.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/breaking-changes-summary.html</ns0:loc>
+    <ns0:lastmod>2025-02-07T22:23:44+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/building-kibana.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/cancel-reindex.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/canvas-function-reference.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/canvas-present-workpad.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/canvas-tinymath-functions.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/canvas-tutorial.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/canvas.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/cases-action-type.html</ns0:loc>
+    <ns0:lastmod>2025-01-14T17:05:37+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/cases-api.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/cases-settings.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/cases-webhook-action-type.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/cases.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/chart-types.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/check-reindex-status.html</ns0:loc>
+    <ns0:lastmod>2025-01-14T17:05:37+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/ci-metrics.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/cli-commands.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/configuration-service.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/configuring-monitoring.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/connect-to-elasticsearch.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/console-kibana.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/contributing.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/core-packages.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/create-a-dashboard-of-panels-with-ecommerce-data.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/create-a-dashboard-of-panels-with-web-server-data.html</ns0:loc>
+    <ns0:lastmod>2024-12-23T20:20:38+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/create-and-manage-rules.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/create-dashboard.html</ns0:loc>
+    <ns0:lastmod>2024-12-23T20:20:38+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/create-dashboards.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/create-private-location-api.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/crowdstrike-action-type.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/d3security-action-type.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/dashboard-api-export.html</ns0:loc>
+    <ns0:lastmod>2025-01-14T17:05:37+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/dashboard-api.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/dashboard-enhanced-plugin.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/dashboard-import-api.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/dashboard-links.html</ns0:loc>
+    <ns0:lastmod>2024-12-23T20:20:38+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/dashboard.html</ns0:loc>
+    <ns0:lastmod>2024-12-23T20:20:38+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/data-rollups.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/data-views-api.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/data-views.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T23:40:36+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/deb.html</ns0:loc>
+    <ns0:lastmod>2025-01-21T12:27:00+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/delete-monitors-api.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/delete-parameters-api.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/delete-private-location-api.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/development-basepath.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/development-best-practices.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/development-documentation.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/development-getting-started.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/development-github.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/development-plugin-resources.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/development-pull-request.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/development-security.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/development-telemetry.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/development-tests.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/development-visualize-index.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/development.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/devtools-kibana.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/discover-get-started.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/discover-search-for-relevance.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/discover.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/docker.html</ns0:loc>
+    <ns0:lastmod>2025-01-21T12:27:00+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/document-explorer.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/drilldowns.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/duplicate-dashboards.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/edit-parameter-by-id-api.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/edit-workpads.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/elasticsearch-metrics.html</ns0:loc>
+    <ns0:lastmod>2025-01-29T11:24:31+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/elasticsearch-mutual-tls.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/elasticsearch-service.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/email-action-type.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/enhanced-embeddables-plugin.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/enhancements-and-bug-fixes-v8.0.0-rc1.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/enhancements-and-bug-fixes-v8.0.0-rc2.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/enhancements-and-bug-fixes-v8.0.0.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/enhancements-and-bug-fixes-v8.1.0.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/enhancements-and-bug-fixes-v8.10.0-revised.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/enhancements-and-bug-fixes-v8.11.0.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/enhancements-and-bug-fixes-v8.12.0.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/enhancements-and-bug-fixes-v8.13.0.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/enhancements-and-bug-fixes-v8.14.0.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/enhancements-and-bug-fixes-v8.15.0.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/enhancements-and-bug-fixes-v8.16.0.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/enhancements-and-bug-fixes-v8.17.0.html</ns0:loc>
+    <ns0:lastmod>2025-02-07T22:23:44+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/enhancements-and-bug-fixes-v8.2.0.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/enhancements-and-bug-fixes-v8.3.0.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/enhancements-and-bug-fixes-v8.4.0.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/enhancements-and-bug-fixes-v8.5.0.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/enhancements-and-bug-fixes-v8.6.0.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/enhancements-and-bug-fixes-v8.7.0.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/enhancements-and-bug-fixes-v8.8.0.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/enhancements-and-bug-fixes-v8.9.0.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/enterprise-search-settings-kb.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/esql-visualizations.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/esql.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/event-log-index.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/exported-fields-osquery.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/external-plugin-development.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/external-plugin-functional-tests.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/external-plugin-localization.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/features-api-get.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/field-statistics-dashboard.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/find-monitors-api.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/fleet-settings-kb.html</ns0:loc>
+    <ns0:lastmod>2025-01-13T12:23:31+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/fleet.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/gemini-action-type.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/geo-alerting.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/get-monitor-api.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/get-parameters-api.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/get-private-locations-api.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/get-settings-api.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/get-started.html</ns0:loc>
+    <ns0:lastmod>2025-01-07T17:56:15+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/graph-configuration.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/graph-troubleshooting.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/heatmap-layer.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/http-service.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/i18n-settings-kb.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/import-geospatial-data.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/index-action-type.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/index-patterns-api-create.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/index-patterns-api-default-get.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/index-patterns-api-default-set.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/index-patterns-api-delete.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/index-patterns-api-get.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/index-patterns-api-update.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/index-patterns-api.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/index-patterns-fields-api-update.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/index-patterns-runtime-field-api-create.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/index-patterns-runtime-field-api-delete.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/index-patterns-runtime-field-api-get.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/index-patterns-runtime-field-api-update.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/index-patterns-runtime-field-api-upsert.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/indexing-geojson-data-tutorial.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/inference-endpoints.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/infrastructure-ui-settings-kb.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/install.html</ns0:loc>
+    <ns0:lastmod>2025-01-07T17:56:15+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/interpreting-ci-failures.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/introduction.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/jira-action-type.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/kibana-alerts.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/kibana-architecture.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/kibana-authentication.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/kibana-concepts-analysts.html</ns0:loc>
+    <ns0:lastmod>2025-01-29T12:20:15+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/kibana-dashboard-plugin.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/kibana-debugging.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/kibana-diagnostic.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/kibana-encryption-keys.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/kibana-expressions-plugin.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/kibana-issue-reporting.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/kibana-linting.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/kibana-navigation.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/kibana-page.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/kibana-platform-api.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/kibana-platform-plugin-api.html</ns0:loc>
+    <ns0:lastmod>2025-01-14T17:05:37+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/kibana-plugins.html</ns0:loc>
+    <ns0:lastmod>2025-01-21T12:27:00+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/kibana-privileges.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/kibana-role-management.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/kibana-troubleshooting-kibana-server-logs.html</ns0:loc>
+    <ns0:lastmod>2025-01-29T23:34:23+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/kibana-troubleshooting-trace-query.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/kibana-troubleshooting.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/kibana-verification-code.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/kuery-query.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/legacy-editors.html</ns0:loc>
+    <ns0:lastmod>2024-12-23T20:20:38+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/legacy-url-aliases.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/lens.html</ns0:loc>
+    <ns0:lastmod>2024-12-23T20:20:38+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/log-settings-examples.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/logging-config-changes.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/logging-configuration.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/logging-service.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/logging-settings.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/logs-ui-settings-kb.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/logstash-configuration-management-api-create.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/logstash-configuration-management-api-delete.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/logstash-configuration-management-api-list.html</ns0:loc>
+    <ns0:lastmod>2025-01-14T17:05:37+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/logstash-configuration-management-api-retrieve.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/logstash-configuration-management-api.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/logstash-page.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/lucene-query.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/machine-learning-api.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/maintenance-windows.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/manage-cases-settings.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/manage-cases.html</ns0:loc>
+    <ns0:lastmod>2025-01-29T10:51:48+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/manage-osquery-integration.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/manage-panels.html</ns0:loc>
+    <ns0:lastmod>2024-12-23T20:20:38+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/management.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/managing-data-views.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/managing-licenses.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/managing-saved-objects.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/managing-tags.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/maps-aggregations.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/maps-clean-your-data.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/maps-connect-to-ems.html</ns0:loc>
+    <ns0:lastmod>2025-01-29T23:34:23+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/maps-create-filter-from-map.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/maps-getting-started.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/maps-grid-aggregation.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/maps-layer-based-filtering.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/maps-search-across-multiple-indices.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/maps-search.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/maps-settings.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/maps-top-hits-aggregation.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/maps-troubleshooting.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/maps-vector-style-properties.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/maps-visualizations.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/maps.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/monitor-troubleshooting.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/monitoring-data.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/monitoring-elastic-agent.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/monitoring-kibana.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/monitoring-metricbeat.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/monitoring-settings-kb.html</ns0:loc>
+    <ns0:lastmod>2025-01-07T17:56:15+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/monorepo-packages.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/numeral.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/obs-ai-assistant-action-type.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/observability.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/open-the-dashboard.html</ns0:loc>
+    <ns0:lastmod>2024-12-23T20:20:38+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/openai-action-type.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/opsgenie-action-type.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/osquery-faq.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/osquery-manager-api.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/osquery-manager-live-queries-api-create.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/osquery-manager-live-queries-api-get-all.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/osquery-manager-live-queries-api-get-results.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/osquery-manager-live-queries-api-get.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/osquery-manager-packs-api-create.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/osquery-manager-packs-api-delete.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/osquery-manager-packs-api-get-all.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/osquery-manager-packs-api-get.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/osquery-manager-packs-api-update.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/osquery-manager-saved-queries-api-create.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/osquery-manager-saved-queries-api-delete.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/osquery-manager-saved-queries-api-get-all.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/osquery-manager-saved-queries-api-get.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/osquery-manager-saved-queries-api-update.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/osquery.html</ns0:loc>
+    <ns0:lastmod>2025-01-29T23:34:23+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/pagerduty-action-type.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/painlesslab.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/patterns.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/playground-context.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/playground-query.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/playground-troubleshooting.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/playground.html</ns0:loc>
+    <ns0:lastmod>2024-12-18T13:52:44+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/plugin-list.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/plugin-performance.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/plugin-tooling.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/point-to-point.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/pr-review.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/pre-configured-connectors.html</ns0:loc>
+    <ns0:lastmod>2025-01-14T17:05:37+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/prebuilt-packs.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/production.html</ns0:loc>
+    <ns0:lastmod>2025-01-29T12:52:16+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.0.0-alpha1.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.0.0-alpha2.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.0.0-beta1.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.0.0-rc1.html</ns0:loc>
+    <ns0:lastmod>2025-01-14T17:05:37+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.0.0-rc2.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.0.0.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.1.0.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.1.1.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.1.2.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.1.3.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.10.0.html</ns0:loc>
+    <ns0:lastmod>2025-01-23T11:19:54+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.10.1.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.10.2.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.10.3.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.10.4.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.11.0.html</ns0:loc>
+    <ns0:lastmod>2025-01-23T11:19:54+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.11.1.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.11.2.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.11.3.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.11.4.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.12.0.html</ns0:loc>
+    <ns0:lastmod>2025-01-23T11:19:54+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.12.1.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.12.2.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.13.0.html</ns0:loc>
+    <ns0:lastmod>2025-01-23T11:19:54+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.13.1.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.13.2.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.13.3.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.13.4.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.14.0.html</ns0:loc>
+    <ns0:lastmod>2025-01-23T11:19:54+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.14.1.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.14.2.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.14.3.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.15.0.html</ns0:loc>
+    <ns0:lastmod>2025-01-23T11:19:54+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.15.1.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.15.2.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.15.3.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.15.4.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.15.5.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.16.0.html</ns0:loc>
+    <ns0:lastmod>2025-01-23T11:19:54+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.16.1.html</ns0:loc>
+    <ns0:lastmod>2024-12-17T17:51:10+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.16.2.html</ns0:loc>
+    <ns0:lastmod>2025-01-16T09:19:46+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.16.3.html</ns0:loc>
+    <ns0:lastmod>2025-02-07T22:23:44+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.16.4.html</ns0:loc>
+    <ns0:lastmod>2025-02-07T22:23:44+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.17.0.html</ns0:loc>
+    <ns0:lastmod>2025-01-23T11:19:54+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.17.1.html</ns0:loc>
+    <ns0:lastmod>2025-02-07T22:23:44+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.17.2.html</ns0:loc>
+    <ns0:lastmod>2025-02-07T22:23:44+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.2.0.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.2.1.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.2.2.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.2.3.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.3.0.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.3.1.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.3.2.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.3.3.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.4.0.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.4.1.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.4.2.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.4.3.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.5.0.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.5.1.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.5.2.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.6.0.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.6.1.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.7.0.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.7.1.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.8.0.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.8.1.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.8.2.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.9.0.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.9.1.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes-8.9.2.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/release-notes.html</ns0:loc>
+    <ns0:lastmod>2025-02-07T22:23:44+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/reporting-getting-started.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/reporting-integration.html</ns0:loc>
+    <ns0:lastmod>2025-01-14T17:05:37+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/reporting-production-considerations.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/reporting-settings-kb.html</ns0:loc>
+    <ns0:lastmod>2025-01-07T17:56:15+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/reporting-troubleshooting-csv.html</ns0:loc>
+    <ns0:lastmod>2025-01-29T11:54:47+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/reporting-troubleshooting-pdf.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/reporting-troubleshooting.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/resilient-action-type.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/resolve-migrations-failures.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/reverse-geocoding-tutorial.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/role-management-api.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/role-mappings.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/rpm.html</ns0:loc>
+    <ns0:lastmod>2025-01-21T12:27:00+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/rule-action-variables.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/rule-type-es-query.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/rule-type-index-threshold.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/rule-types.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/run-pattern-analysis-discover.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/running-elasticsearch.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/running-kibana-advanced.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/sample-data.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/save-load-delete-query.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/save-open-search.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/saved-object-ids.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/saved-object-migrations.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/saved-objects-api.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/saved-objects-service.html</ns0:loc>
+    <ns0:lastmod>2025-01-14T17:05:37+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/search-ai-assistant.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/search-session-settings-kb.html</ns0:loc>
+    <ns0:lastmod>2025-01-07T17:56:15+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/search-sessions.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/search-space-connection-details.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/search-space.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/secure-reporting.html</ns0:loc>
+    <ns0:lastmod>2025-01-29T11:54:47+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/secure-settings.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/security-best-practices.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/security-settings-kb.html</ns0:loc>
+    <ns0:lastmod>2025-01-07T17:56:15+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/sentinelone-action-type.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/server-log-action-type.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/servicenow-action-type.html</ns0:loc>
+    <ns0:lastmod>2025-01-14T17:05:37+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/servicenow-itom-action-type.html</ns0:loc>
+    <ns0:lastmod>2025-01-14T17:05:37+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/servicenow-sir-action-type.html</ns0:loc>
+    <ns0:lastmod>2025-01-14T17:05:37+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/session-management-api-invalidate.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/session-management-api.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/set-time-filter.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/settings.html</ns0:loc>
+    <ns0:lastmod>2025-01-07T17:56:15+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/setup-cases.html</ns0:loc>
+    <ns0:lastmod>2025-01-03T17:51:13+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/setup.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/share-the-dashboard.html</ns0:loc>
+    <ns0:lastmod>2024-12-23T20:20:38+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/sharing-saved-objects.html</ns0:loc>
+    <ns0:lastmod>2025-01-14T17:05:37+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/short-urls-api-create.html</ns0:loc>
+    <ns0:lastmod>2025-01-14T17:05:37+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/short-urls-api-delete.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/short-urls-api-get.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/short-urls-api-resolve.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/short-urls-api.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/show-field-statistics.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/slack-action-type.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/spaces-api.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/spaces-settings-kb.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/stability.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/start-resume-reindex.html</ns0:loc>
+    <ns0:lastmod>2025-01-14T17:05:37+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/start-stop.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/swimlane-action-type.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/synthetics-apis.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/targz.html</ns0:loc>
+    <ns0:lastmod>2025-01-21T12:27:00+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/task-manager-api-health.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/task-manager-health-monitoring.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/task-manager-production-considerations.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/task-manager-settings-kb.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/task-manager-troubleshooting.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/teams-action-type.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/telemetry-settings-kbn.html</ns0:loc>
+    <ns0:lastmod>2025-01-15T16:51:56+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/terms-join.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/testing-connectors.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/testing-kibana-plugin.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/thehive-action-type.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/tile-layer.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/tines-action-type.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/torq-action-type.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/translations-plugin.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/try-esql.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/tutorial-secure-access-to-kibana.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/typescript.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/ui-settings-service.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/uiactions-plugin.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/update-monitor-api.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/update-settings-api.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/upgrade-assistant-api-default-field.html</ns0:loc>
+    <ns0:lastmod>2025-01-14T17:05:37+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/upgrade-assistant-api-status.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/upgrade-assistant-api.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/upgrade-assistant.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/upgrade-migrations-rolling-back.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/upgrade.html</ns0:loc>
+    <ns0:lastmod>2025-01-21T12:27:00+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/upgrading-nodejs.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/uptime-apis.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/url-drilldown-settings-kb.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/using-kibana-with-security.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/vector-layer.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/vector-style.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/vector-tooltip.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/vega.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/view-alerts.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/watcher-ui.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/webhook-action-type.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/whats-new.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/windows.html</ns0:loc>
+    <ns0:lastmod>2025-01-21T12:27:00+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/xmatters-action-type.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/xpack-graph.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/xpack-grokdebugger.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/xpack-ml-aiops.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/xpack-ml-anomalies.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/xpack-ml-dfanalytics.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/xpack-ml.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/xpack-monitoring.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/xpack-profiler.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/xpack-security-access-agreement.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/xpack-security-audit-logging.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/xpack-security-authorization.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/xpack-security-fips-140-2.html</ns0:loc>
+    <ns0:lastmod>2025-01-13T16:22:24+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/xpack-security-secure-saved-objects.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/xpack-security-session-management.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/xpack-security.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/xpack-siem.html</ns0:loc>
+    <ns0:lastmod>2024-12-12T15:59:14+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+<ns0:url>
+    <ns0:loc>https://www.elastic.co/guide/en/kibana/current/xpack-spaces.html</ns0:loc>
+    <ns0:lastmod>2025-01-09T01:21:31+00:00</ns0:lastmod>
+    <ns0:changefreq>weekly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+</ns0:url>
+
+</urlset>
