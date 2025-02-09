@@ -16,7 +16,7 @@ from typing import List
 load_dotenv()
 
 llm = os.getenv('LLM_MODEL', 'deepseek-r1-distill-qwen-7b')
-model = OpenAIModel(llm)
+model = OpenAIModel(llm, base_url=os.getenv("OPENAI_API_URL"))
 
 logfire.configure(send_to_logfire='if-token-present')
 
@@ -48,7 +48,8 @@ async def get_embedding(text: str, openai_client: AsyncOpenAI) -> List[float]:
     """Get embedding vector from OpenAI."""
     try:
         response = await openai_client.embeddings.create(
-            model="text-embedding-3-small",
+            #model="text-embedding-3-small",
+            model="text-embedding-nomic-embed-text-v1.5",
             input=text
         )
         return response.data[0].embedding
